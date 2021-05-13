@@ -6,7 +6,7 @@ Thanks for visiting my GitHub profile ✅
 
 🌱 I’m currently learning [Golang](https://golang.org/) and Infrastructure as Code 
 
-👯 I’m looking to collaborate on open source proyect Serverless, Ruby/RoR and Golang!
+🚀 I’m looking to collaborate on open source proyect Serverless, Ruby/RoR and Golang!
 
 <!--
 **olcortesb/olcortesb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
