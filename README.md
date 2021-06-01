@@ -2,7 +2,7 @@
 
 Thanks for visiting my GitHub profile ✅ 
 
-🔭 I’m currently working on [Naranja](https://www.naranja.com/)
+🔭 I’m currently working on [Inteliens](https://www.inteliens.com/)
 
 🌱 I’m currently learning [Golang](https://golang.org/) and Infrastructure as Code 
 
