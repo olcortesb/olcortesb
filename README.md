@@ -2,9 +2,9 @@
 
 Thanks for visiting my GitHub profile ✅ 
 
-🔭 I’m currently working on [Inteliens](https://www.inteliens.com/)
+🔭 I’m currently working on [Inteliens](https://www.inteliens.com/) on [Ruby](https://www.ruby-lang.org/) ecosystem 
 
-🌱 I’m currently learning [Golang](https://golang.org/) and Infrastructure as Code 
+🌱 I’m currently learning in [Golang](https://golang.org/) and Infrastructure as Code ⚡ 
 
 🚀 I’m looking to collaborate on open source proyect Serverless, Ruby/RoR and Golang!
 
