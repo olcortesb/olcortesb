@@ -2,7 +2,7 @@
 
 Thanks for visiting my GitHub profile ✅ 
 
-🔭 I’m currently working on [Inteliens](https://www.inteliens.com/) on [Ruby](https://www.ruby-lang.org/) ecosystem 
+🔭 I’m currently working on [Inteliens](https://www.inteliens.com/) on [Ruby](https://www.ruby-lang.org/) and AWS ecosystem 
 
 🌱 I’m currently learning in [Golang](https://golang.org/) and Infrastructure as Code ⚡ 
 
