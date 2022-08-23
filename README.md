@@ -8,6 +8,8 @@ Thanks for visiting my GitHub profile ✅
 
 🚀 I’m looking to collaborate on open source proyect Serverless, IaC, Ruby/RoR!
 
+☁️  I'm [Amazon Community Builder](https://aws.amazon.com/es/developer/community/community-builders/) 
+
 <!--
 **olcortesb/olcortesb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
