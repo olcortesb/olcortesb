@@ -2,11 +2,11 @@
 
 Thanks for visiting my GitHub profile ✅ 
 
-🔭 I’m currently working on [Inteliens](https://www.inteliens.com/) on [Ruby](https://www.ruby-lang.org/) and AWS ecosystem 
+🔭 I’m currently working on [Inteliens](https://www.inteliens.com/) on [Ruby](https://www.ruby-lang.org/), node.js and AWS ecosystem
 
 🌱 I’m currently learning in and Infrastructure as Code (IaC) ⚡ 
 
-🚀 I’m looking to collaborate on open source proyect Serverless, IaC, Ruby/RoR!
+🚀 I’m looking to collaborate on open source proyect Serverless, JavaScript/node.js, IaC, Ruby/RoR!
 
 ☁️  I'm [Amazon Community Builder](https://aws.amazon.com/es/developer/community/community-builders/) 
 
