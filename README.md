@@ -6,7 +6,7 @@ Thanks for visiting my GitHub profile ✅
 
 🌱 I'm continuous learning in and Infrastructure as Code (IaC)⚡ 
 
-🚀 I’m looking to collaborate on open source proyect Serverless, JavaScript/node.js, IaC, Ruby/RoR!
+🚀 I’m looking to collaborate on open source proyect Serverless, JavaScript/node.js, IaC!
 
 ☁️  I'm [Amazon Community Builder](https://aws.amazon.com/es/developer/community/community-builders/) serverless Category
 
