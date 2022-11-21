@@ -10,6 +10,11 @@ Thanks for visiting my GitHub profile ✅
 
 ☁️  I'm [Amazon Community Builder](https://aws.amazon.com/es/developer/community/community-builders/) serverless Category
 
+✍️  https://olcortesb.hashnode.dev
+
+🤝 https://blog.deceroait.com/series/serverless
+
+
 <!--
 **olcortesb/olcortesb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
