@@ -2,9 +2,11 @@
 
 Thanks for visiting my GitHub profile ✅ 
 
-🔭 I’m currently working as freelance in node.js and AWS ecosystem
+👨‍💻 I’m currently working as freelance in node.js and AWS ecosystem
 
-🌱 I'm continuous learning in and Infrastructure as Code ⚡ (IaC: [Serverless Framework](https://www.serverless.com/), [Pulumi](https://www.pulumi.com/) , ...) 
+🔭 I'm currently learning Solidity and Rust 
+
+🌱 I am working with Infrastructure as Code ⚡ (IaC: [Serverless Framework](https://www.serverless.com/), [Pulumi](https://www.pulumi.com/) , ...) 
 
 🚀 I’m looking to collaborate on open source proyect Serverless, JavaScript/node.js, IaC!
 
