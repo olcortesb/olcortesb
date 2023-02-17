@@ -2,7 +2,7 @@
 
 Thanks for visiting my GitHub profile ✅ 
 
-🔭 I’m currently working as freelance in ruby, node.js and AWS ecosystem
+🔭 I’m currently working as freelance in node.js and AWS ecosystem
 
 🌱 I'm continuous learning in and Infrastructure as Code ⚡ (IaC: [Serverless Framework](https://www.serverless.com/), [Pulumi](https://www.pulumi.com/) , ...) 
 
