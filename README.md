@@ -15,8 +15,9 @@ Thanks for visiting my GitHub profile ✅
 🤝 https://blog.deceroait.com/series/serverless
 
 <hr>
+<!--
 <p> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=olcortesb&theme=default" alt="olcortesb" /></p>
-
+-->
 <!--
 **olcortesb/olcortesb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
