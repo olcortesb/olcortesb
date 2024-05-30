@@ -2,9 +2,9 @@
 
 Thanks for visiting my GitHub profile ✅ 
 
-👨‍💻 I’m currently working as freelance cloud developer 
+👨‍💻 I’m currently working as Software / Cloud Architect 
 
-🌱 I am working with Infrastructure as Code ⚡ (IaC: [Serverless Framework](https://www.serverless.com/), [Pulumi](https://www.pulumi.com/) , [AWS sam](https://aws.amazon.com/es/serverless/sam/) ...) 
+🌱 I am working with Infrastructure as Code ⚡ (IaC: [Serverless Framework](https://www.serverless.com/), [Pulumi](https://www.pulumi.com/) , [AWS sam](https://aws.amazon.com/es/serverless/sam/), [Terraform](https://www.terraform.io/) ...) 
 
 ☁️  I'm [Amazon Community Builder](https://aws.amazon.com/es/developer/community/community-builders/) serverless Category
 
@@ -23,7 +23,7 @@ Thanks for visiting my GitHub profile ✅
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [inteliens](https://www.inteliens.com/)
+- 🔭 I’m currently working on [Ack Storm](https://www.ackstorm.com/)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
