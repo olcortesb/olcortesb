@@ -14,7 +14,7 @@ Thanks for visiting my GitHub profile ✅
 
 🤝 https://blog.deceroait.com/series/serverless
 
-📹 Youtube list with talks in conferences and meetups: https://www.youtube.com/watch?v=3LgFUtTfgTU&list=PLFn3sj68ZOmRKIwfX7t9lpDCfJSFQFIsa 
+📹 Youtube list with talks in conferences and meetups: [Link](https://www.youtube.com/watch?v=3LgFUtTfgTU&list=PLFn3sj68ZOmRKIwfX7t9lpDCfJSFQFIsa) 
 <hr>
 <!--
 <p> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=olcortesb&theme=default" alt="olcortesb" /></p>
