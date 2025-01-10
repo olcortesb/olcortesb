@@ -8,7 +8,9 @@ Thanks for visiting my GitHub profile ✅
 
 ☁️  I'm [Amazon Community Builder](https://aws.amazon.com/es/developer/community/community-builders/) serverless Category
 
-✍️  https://olcortesb.hashnode.dev
+✍️ https://olcortesb.hashnode.dev
+
+⚡  https://social.olcortesb.com/
 
 🤝 https://blog.deceroait.com/series/serverless
 
