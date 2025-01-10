@@ -2,13 +2,11 @@
 
 Thanks for visiting my GitHub profile ✅ 
 
-👨‍💻 I’m currently working as Software / Cloud Architect 
+👨‍💻 I’m currently working as Cloud Architect in ACKStorm
 
 🌱 I am working with Infrastructure as Code ⚡ (IaC: [Serverless Framework](https://www.serverless.com/), [Pulumi](https://www.pulumi.com/) , [AWS sam](https://aws.amazon.com/es/serverless/sam/), [Terraform](https://www.terraform.io/) ...) 
 
 ☁️  I'm [Amazon Community Builder](https://aws.amazon.com/es/developer/community/community-builders/) serverless Category
-
-🚀 https://olcortesb.git-sos.com/
 
 ✍️  https://olcortesb.hashnode.dev
 
